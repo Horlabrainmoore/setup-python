@@ -1,4 +1,25 @@
-# setup-python
+= Omni Layer Specification Project
+
+== Introduction
+
+Welcome to the Github repository for the *Omni Layer Specification*.
+
+NOTE:: _Major changes are happening here_! We are *restructuring and reformatting* the  *Omni Layer Specification*. The work-in-progress new specification is link:OmniSpecification.adoc[version 0.7] and is in a file named link:OmniSpecification.adoc[OmniSpecification.adoc]. The final version of the old format is link:OmniSpecification-v0.6.adoc[version 0.6] and is now in a file named link:OmniSpecification-v0.6.adoc[OmniSpecification-v0.6.adoc]. (Previously it was in this `README`.)
+
+== Contributing
+
+To contribute to the Specification, you can:
+
+* Read and comment on existing https://github.com/OmniLayer/spec/issues[Issues].
+* Read and comment on existing https://github.com/OmniLayer/spec/pulls[Pull Requests].
+* Create a new https://github.com/OmniLayer/spec/issues[Issue].
+* Create a new https://github.com/OmniLayer/spec/pulls[Pull Request].
+* Create a new consensus-layer https://github.com/OmniLayer/Documentation/tree/master/OLEs[Omni Layer Enhancement proposal] (*OLE*).
+* Read and comment on consensus-layer https://github.com/OmniLayer/Documentation/tree/master/OLEs[Omni Layer Enhancement proposals] (*OLEs*).
+
+== Omni Documentation Repository
+
+Please see the https://github.com/OmniLayer/Documentation[Omni Layer Documentation] repository for additional Omni documentation and for https://github.com/OmniLayer/Documentation/tree/master/OLEs[Omni Layer Enhancement proposals] (*OLEs*).# setup-python
 
 [![Basic validation](https://github.com/actions/setup-python/actions/workflows/basic-validation.yml/badge.svg?branch=main)](https://github.com/actions/setup-python/actions/workflows/basic-validation.yml)
 [![Validate Python e2e](https://github.com/actions/setup-python/actions/workflows/test-python.yml/badge.svg?branch=main)](https://github.com/actions/setup-python/actions/workflows/test-python.yml)
